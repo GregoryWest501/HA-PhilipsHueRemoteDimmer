@@ -1,5 +1,5 @@
 blueprint:
-  source_url: https://github.com/GregoryWest501/HA-PhilipsHueRemoteDimmer/HueRWL0022DimmerController.yaml
+  source_url: https://github.com/GregoryWest501/HA-PhilipsHueRemoteDimmer/blob/main/HueRWL0022DimmerController.yaml
   name: Philips Hue Remote RWL0022
   description: This blueprint configures a Philips Remote with a Colour light.
   domain: automation
